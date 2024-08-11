@@ -1,0 +1,6 @@
+User post likh paayege
+login and resister
+logout 
+post creation
+post like 
+post delete 
